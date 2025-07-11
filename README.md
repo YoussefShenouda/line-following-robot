@@ -22,7 +22,11 @@ An Arduino-based line-following robot using two TCRT5000 IR sensors, an L298N mo
 
 ## Images
 
-![robot](media/robot.pdf)
+![robot](media/robot1.HEIC)
+![robot](media/robot2.HEIC)
+![robot](media/robot3.HEIC)
+![robot](media/robot4.HEIC)
+![robot](media/robot5.HEIC)
 
 
 ## 🧠 Lessons Learned
